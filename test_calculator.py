@@ -1,7 +1,6 @@
 """
 Unit tests for calculator
 """
-import unittest
 
 import calculator
 
